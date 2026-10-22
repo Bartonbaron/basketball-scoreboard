@@ -2,7 +2,7 @@
 
 This project is automatically deployed and hosted on **Netlify** strictly for educational and portfolio demonstration purposes, it was made while taking the Fullstack Developer Path course on Scrimba:
 
-**Live Demo**:
+**Live Demo**: https://musical-bubblegum-95e988.netlify.app/
 
 **Build Status**: Deployed automatically from the `main` branch of this GitHub repository.
 
